@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm @PeteSHJJ 
+- 📫 How to reach me : peteshjj@gmail.com
+
 
 <!--
 **PeteSHJJ/PeteSHJJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
